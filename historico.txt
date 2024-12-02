@@ -1,0 +1,19 @@
+﻿Integrante 1 ( Andrés Elías Muñoz Japón ):
+
+	1. Creación en GitHub el repositorio e incorporación de los demás integrantes como colaboradores.
+	2. Subida de los archivos correspondientes: parte de la vista (carpeta /app/templates) y los de Fron-end (web/css + web/js + web/images).
+	3. Subida de archivo valoraciones.txt, con las valoraciones de los integrantes
+
+Integrante 2 ( Ana Gutiérrez Barón ):
+
+	1. Creación de la base de datos alimentos52024 en el CDMON, poniendo un usario y contraseña para poder darle estos datos al integrante 3 para que pudiera cambiarlo en el archivo de “config.php”.
+	2. Creadas tablas mediante phpMyAdmin.
+	3. Subida de los archivos correspondientes: (app/Model.php ).
+	4. Realización de comandos para unir el gitHub al repositorio del Cdmon.
+	5. Subida de archivo instalacion.txt, con el proceso de instalación.
+
+Integrante 3 ( Pablo Ignacio Quintero ):
+
+	1. Configuración de archivo Config.php con los datos de la base de datos aportados por el integrante 2.
+	2. Subida de archivos correspondientes: (web/index.php + app/Controller.php + app/Config.php).
+	3. Subida de archivo historico.txt. (este archivo).
