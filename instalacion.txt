@@ -1,0 +1,40 @@
+PASO 1: CREACION DE LA BASE DE DATOS
+
+-Creamos la base de datos desde cdmon con el nombre alimentos52024 y la codificación utf8.
+-Accedemos a phpMyAdmin con el usuario y la contraseña.
+-Abrimos la base de datos que hemos creado y ejecutamos el script: 
+
+		CREATE TABLE `alimentos` (
+  		`id` int(11) NOT NULL AUTO_INCREMENT,
+  		`nombre` varchar(255) NOT NULL,
+  		`energia` decimal(10,0) NOT NULL,
+  		`proteina` decimal(10,0) NOT NULL,
+ 		`hidratocarbono` decimal(10,0) NOT NULL,
+  		`fibra` decimal(10,0) NOT NULL,
+  		`grasatotal` decimal(10,0) NOT NULL,
+  		PRIMARY KEY (`id`)
+		) ENGINE=InnoDB  DEFAULT CHARSET=utf8;
+
+-Comprobamos que se ha realizado correctamente.
+
+PASO 2: ADECUACION DEL REPOSITORIO GITHUB
+
+-Clonar el repositorio en local
+-Crear rama independiente y pasarse a esa rama
+-Subir el archivo asignado (Model.php)
+-Volver a la rama main
+-Realizar un merge de la rama creada
+
+PASO 3: SSH Y COMANDOS DE GIT
+
+-Activar SSH en cdmon
+-En el apartado de cdmon de "Alojamiento para desarrolladores", activar GIT
+-Iniciar la consola de comandos
+-Realizar SSH
+-Entrar en la carpeta /web/alimentos
+-Iniciar git
+-Asegurar que se puede evitar el control o verificación del certificado SSL del servidor
+-Elegir una de las siguientes opciones:
+1: Clonar el proyecto en nuestra carpeta
+2: Descargar una rama
+	(se han realizado las dos opciones, asi que dentro de la carpeta alimentos aparece otra llamada GRUPO5DAW24 que corresponde a la opción 2, que es la que se realizó en segundo lugar)
