@@ -1,0 +1,40 @@
+﻿Práctica 3. Programando y desplegando en grupo.
+Grupo 5 
+Pablo Ignacio Quintero (Integrante 3)
+Ana Gutiérrez Barón (Integrante 2)
+Andrés Elías Muñoz Japón (Integrante 1)
+
+
+También recogerá las valoraciones de la experiencia del resto de integrantes (deben aparecer cada valoración de cada integrante diferenciada) y las indicará en un fichero de texto (valoraciones.txt) . (1 punto)
+1. ¿Qué parte del proceso te resultó más sencilla y cuál fue la más complicada?
+INTEGRANTE 2:
+        -Parte más sencilla: Subir los archivos al repositorio de GitHub.
+        -Parte más complicada: Introducirse en el hosting desde la consola de comandos de Windows.
+INTEGRANTE 3:
+        -La parte más sencilla. subir los archivos a través de git.
+        -La parte más complicada es localizar el archivo “config.php” para cambiar los datos de la base de datos.
+2. ¿Qué has aprendido o reforzado durante esta práctica?
+INTEGRANTE 2:
+        -He aprendido que se pueden controlar los hosting desde la consola local del ordenador y he reforzado los conocimientos de uso de los comandos git además de la conexión con GitHub.
+INTEGRANTE 3:
+        -El uso del github.
+3. ¿Cómo ha sido la comunicación y colaboración con los otros integrantes del grupo?
+INTEGRANTE 2:
+        -Nos hemos comunicado sin problemas y cada uno ha hecho su parte sin causar problemas a los demás.
+INTEGRANTE 3: 
+        -Fluida y colaborativa. 
+4. ¿Qué problemas o dificultades enfrentaste y cómo los solucionaste?
+INTEGRANTE 2:
+        -Me ha costado un poco enlazar el SSH en la consola de comandos y luego ejecutar los diversos comandos para encontrar la carpeta. Lo primero conseguí solucionarlo esperando a tener una red con menos dispositivos y lo segundo buscando la comparativa de los comandos de Linux (lo que venía explicado en Moodle) con los de Windows.
+INTEGRANTE 3: 
+        -La hora de enlazar el github al CDmon. Tener en cuenta la parte de servicio ssh y activar la unión a git.
+5. ¿Te has sentido cómodo trabajando con las herramientas (Git, hosting, PHP)? ¿Por qué sí o por qué no?
+INTEGRANTE 2:
+        -Si, al ser herramientas que ya conocía y con las que había trabajado de alguna u otra forma, ha sido un trabajo cómodo.
+INTEGRANTE 3:
+        -Sí. Porque ha sido trabajar con herramientas conocidas
+6. ¿Qué conocimientos considera necesarios haber tenido antes de realizar esta práctica?
+INTEGRANTE 2:
+        -Creo que los conocimientos mínimos para hacer esta practicas serían conocer el hosting que hemos utilizado y también sobre Git y su conexión con GitHub.
+INTEGRANTE 3:
+-Mínimo conocimientos de comandos git, y un mínimo conocimiento del hosting compartido
